@@ -8163,7 +8163,11 @@ input, select, textarea {
 		}
 
 	.items.style1 > * {
-		border-color: rgba(0, 0, 0, 0.2);
+		border-color: (140, 130, 115, 0.2);
+		border-top-color: rgba(140, 130, 115, 0.2);
+		border-right-color: rgba(140, 130, 115, 0.2);
+		border-bottom-color: rgba(140, 130, 115, 0.2);
+		border-left-color: rgba(140, 130, 115, 0.2);
 	}
 
 	.items.style2 {
