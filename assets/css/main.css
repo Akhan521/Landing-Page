@@ -2187,7 +2187,7 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px 1px inset;
+		box-shadow: rgba(140, 130, 115, 0.2) 0px 0px 0px 1px inset;
 		color: rgb(232, 230, 227) !important;
 	}
 
